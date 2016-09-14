@@ -1,0 +1,13 @@
+9/1/2016 8:15:55 PM	This log contains information about the import operation of the script 'SampleImportScript.sql' into project 'Small Database' on computer 'DESKTOP-CBNOVUS' by user'priyanshu.
+9/1/2016 8:15:55 PM	Started importing file: C:\Users\priyanshu\Documents\Visual Studio 2015\Projects\db\SampleImportScript.sql 
+9/1/2016 8:15:55 PM	File name C:\Users\priyanshu\Documents\Visual Studio 2015\Projects\db\SampleImportScript.sql (size: 4794)
+9/1/2016 8:15:55 PM	Parsing import script
+9/1/2016 8:15:58 PM	Total number of batches in script: 33
+9/1/2016 8:15:58 PM	Total number of statements in script: 17
+9/1/2016 8:15:58 PM	The script was successfully imported into the project.
+9/1/2016 8:15:58 PM	Analyzing schema objects...
+9/1/2016 8:15:58 PM	Scanning project for duplicate elements
+9/1/2016 8:15:58 PM	Finished duplicate element processing
+9/1/2016 8:15:59 PM	In the script that you provided to the import operation, one or more statements were not fully understood. These statements were moved to the ScriptsIgnoredOnImport.sql file. Review the file contents for additional information.
+9/1/2016 8:15:59 PM	A summary of the import was saved to the following location: c:\users\priyanshu\documents\visual studio 2015\Projects\Small Database\Small Database\Import Script Logs\SampleImportScript_s_20160901024555.log
+9/1/2016 8:15:59 PM	Click Finish to continue...

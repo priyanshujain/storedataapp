@@ -1,0 +1,1 @@
+c:\users\priyanshu\documents\visual studio 2015\Projects\SimpleDataApp\SimpleDataApp\bin\Debug\SimpleDataApp.exe.config
